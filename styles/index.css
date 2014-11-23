@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+	background-color: red;
+}
+
+.row {
+	background-color: #525252;
+}
+
+.heading {
+	vertical-align: baseline;
+}

@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+body {
+	background-color: red;
+}
+
+.heading {
+	alignment-baseline: baseline;
+	margin-right: 83px;
+}
+
+h2 {
+	font-size: 40px; 
+}
+
+h3 {
+	font-size: 18px;
+	margin-top: -13px; 
+}
+
+p {
+	font-size: 12px;
+	margin-top: 30px;
+	max-width: 500px;
+}
+
+.projmarg {
+	margin-top: 104px;
+}
+
+.projpad {
+	padding-bottom: 20px;
+}
+
+.talign {
+	text-align: right;
+}
+
+footer {
+	background-color: #3439F2;
+	padding: 20px 0;
+}
