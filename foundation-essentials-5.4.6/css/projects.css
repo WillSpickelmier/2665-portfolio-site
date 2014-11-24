@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+body {
+	
+}
+
+.iconmarg {
+	margin-left: 23px;
+}
+
+.projmarg {
+	margin-top: 104px;
+}
+
+.projpad {
+	padding-bottom: 20px;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+h2 {
+	font-size: 18px;
+	margin-top: -18px;
+}
+
+p {
+	font-size: 12px;
+}
+
+h4 {
+	text-align: center;
+}
+
+footer {
+	
+	padding: 20px 0;
+}
+
+.margleft {
+	margin-left: 20px;
+}
