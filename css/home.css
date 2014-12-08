@@ -1,0 +1,69 @@
+@charset "UTF-8";
+
+body {
+	background: url(../images/texture.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+@font-face {
+    font-family: AvantGarde;
+    src: url(../fonts/ITCAvantGardeStd-BkCn.otf);
+}
+
+.icon-top {
+	margin-top: 10px;
+}
+
+.icons {
+	max-width: 99px;
+	max-height: 130px;
+}
+
+.iconmarg {
+	margin-left: 23px;
+}
+
+h2 {
+	font-size: 40px;
+	color: white; 
+}
+
+h3 {
+	font-size: 18px;
+	margin-top: -13px;
+	color: white; 
+}
+
+p { 
+	margin-top: 30px;
+	max-width: 500px;
+	color: white;
+}
+
+.projmarg {
+	margin-top: 104px;
+}
+
+.projpad {
+	padding-bottom: 100px;
+}
+
+.talign {
+	text-align: right;
+}
+
+footer {
+	
+	padding: 20px 0;
+}
+
+.margleft {
+	margin-left: 20px;
+}
+
+h4 {
+	color: white;
+}
