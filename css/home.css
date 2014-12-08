@@ -9,8 +9,8 @@ body {
 }
 
 @font-face {
-    font-family: AvantGarde;
-    src: url(../fonts/ITCAvantGardeStd-BkCn.otf);
+    font-family: texgyre;
+    src: url(../fonts/texgyreadventor-regular-webfont.woff);
 }
 
 .icon-top {
@@ -18,29 +18,34 @@ body {
 }
 
 .icons {
-	max-width: 99px;
+	max-width: 70px;
 	max-height: 130px;
 }
 
-.iconmarg {
-	margin-left: 23px;
+.contact {
+	font-size: 14px;
 }
 
 h2 {
 	font-size: 40px;
 	color: white; 
+	font-family: 'Raleway', sans-serif;
+	font-weight: 700;
 }
 
 h3 {
 	font-size: 18px;
 	margin-top: -13px;
 	color: white; 
+	font-family: 'Raleway', sans-serif;
 }
 
 p { 
 	margin-top: 30px;
 	max-width: 500px;
 	color: white;
+	font-family: texgyre;
+	font-size: 12px;
 }
 
 .projmarg {
