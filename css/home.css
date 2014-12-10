@@ -45,7 +45,7 @@ color: #fff;
 }
 
 a:hover, a:focus {
-color: #258faf;
+color: #ABABAB;
 }
 
 p { 
@@ -79,6 +79,8 @@ footer {
 
 h4 {
 	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 600;
 }
 
 small {
