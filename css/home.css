@@ -8,6 +8,10 @@ body {
   	background-size: cover;
 }
 
+/*img {
+  pointer-events: none;
+}*/
+
 @font-face {
     font-family: texgyre;
     src: url(../fonts/texgyreadventor-regular-webfont.woff);
